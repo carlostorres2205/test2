@@ -1,0 +1,14 @@
+C:\Users\adolf\OneDrive\Documentos\Programación_Estructurada\Exámen\Ejercicio#15\bin\Debug\net9.0\Ejercicio#15.exe
+C:\Users\adolf\OneDrive\Documentos\Programación_Estructurada\Exámen\Ejercicio#15\bin\Debug\net9.0\Ejercicio#15.deps.json
+C:\Users\adolf\OneDrive\Documentos\Programación_Estructurada\Exámen\Ejercicio#15\bin\Debug\net9.0\Ejercicio#15.runtimeconfig.json
+C:\Users\adolf\OneDrive\Documentos\Programación_Estructurada\Exámen\Ejercicio#15\bin\Debug\net9.0\Ejercicio#15.dll
+C:\Users\adolf\OneDrive\Documentos\Programación_Estructurada\Exámen\Ejercicio#15\bin\Debug\net9.0\Ejercicio#15.pdb
+C:\Users\adolf\OneDrive\Documentos\Programación_Estructurada\Exámen\Ejercicio#15\obj\Debug\net9.0\Ejercicio#15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adolf\OneDrive\Documentos\Programación_Estructurada\Exámen\Ejercicio#15\obj\Debug\net9.0\Ejercicio#15.AssemblyInfoInputs.cache
+C:\Users\adolf\OneDrive\Documentos\Programación_Estructurada\Exámen\Ejercicio#15\obj\Debug\net9.0\Ejercicio#15.AssemblyInfo.cs
+C:\Users\adolf\OneDrive\Documentos\Programación_Estructurada\Exámen\Ejercicio#15\obj\Debug\net9.0\Ejercicio#15.csproj.CoreCompileInputs.cache
+C:\Users\adolf\OneDrive\Documentos\Programación_Estructurada\Exámen\Ejercicio#15\obj\Debug\net9.0\Ejercicio#15.dll
+C:\Users\adolf\OneDrive\Documentos\Programación_Estructurada\Exámen\Ejercicio#15\obj\Debug\net9.0\refint\Ejercicio#15.dll
+C:\Users\adolf\OneDrive\Documentos\Programación_Estructurada\Exámen\Ejercicio#15\obj\Debug\net9.0\Ejercicio#15.pdb
+C:\Users\adolf\OneDrive\Documentos\Programación_Estructurada\Exámen\Ejercicio#15\obj\Debug\net9.0\Ejercicio#15.genruntimeconfig.cache
+C:\Users\adolf\OneDrive\Documentos\Programación_Estructurada\Exámen\Ejercicio#15\obj\Debug\net9.0\ref\Ejercicio#15.dll
