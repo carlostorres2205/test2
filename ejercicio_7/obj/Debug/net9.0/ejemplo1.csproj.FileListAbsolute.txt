@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Documentos\prograG5\ejemplo1\ejemplo_7\bin\Debug\net9.0\ejemplo1.exe
+C:\Users\Usuario\OneDrive\Documentos\prograG5\ejemplo1\ejemplo_7\bin\Debug\net9.0\ejemplo1.deps.json
+C:\Users\Usuario\OneDrive\Documentos\prograG5\ejemplo1\ejemplo_7\bin\Debug\net9.0\ejemplo1.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Documentos\prograG5\ejemplo1\ejemplo_7\bin\Debug\net9.0\ejemplo1.dll
+C:\Users\Usuario\OneDrive\Documentos\prograG5\ejemplo1\ejemplo_7\bin\Debug\net9.0\ejemplo1.pdb
+C:\Users\Usuario\OneDrive\Documentos\prograG5\ejemplo1\ejemplo_7\obj\Debug\net9.0\ejemplo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documentos\prograG5\ejemplo1\ejemplo_7\obj\Debug\net9.0\ejemplo1.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\prograG5\ejemplo1\ejemplo_7\obj\Debug\net9.0\ejemplo1.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documentos\prograG5\ejemplo1\ejemplo_7\obj\Debug\net9.0\ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\prograG5\ejemplo1\ejemplo_7\obj\Debug\net9.0\ejemplo1.dll
+C:\Users\Usuario\OneDrive\Documentos\prograG5\ejemplo1\ejemplo_7\obj\Debug\net9.0\refint\ejemplo1.dll
+C:\Users\Usuario\OneDrive\Documentos\prograG5\ejemplo1\ejemplo_7\obj\Debug\net9.0\ejemplo1.pdb
+C:\Users\Usuario\OneDrive\Documentos\prograG5\ejemplo1\ejemplo_7\obj\Debug\net9.0\ejemplo1.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Documentos\prograG5\ejemplo1\ejemplo_7\obj\Debug\net9.0\ref\ejemplo1.dll
