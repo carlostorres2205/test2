@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\CS III ENTREGA\Ejercicio3.1\obj\Debug\net8.0\Ejercicio3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\CS III ENTREGA\Ejercicio3.1\obj\Debug\net8.0\Ejercicio3.1.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\CS III ENTREGA\Ejercicio3.1\obj\Debug\net8.0\Ejercicio3.1.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\CS III ENTREGA\Ejercicio3.1\obj\Debug\net8.0\Ejercicio3.1.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\CS III ENTREGA\Ejercicio3.1\bin\Debug\net8.0\Ejercicio3.1.exe
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\CS III ENTREGA\Ejercicio3.1\bin\Debug\net8.0\Ejercicio3.1.deps.json
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\CS III ENTREGA\Ejercicio3.1\bin\Debug\net8.0\Ejercicio3.1.runtimeconfig.json
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\CS III ENTREGA\Ejercicio3.1\bin\Debug\net8.0\Ejercicio3.1.dll
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\CS III ENTREGA\Ejercicio3.1\bin\Debug\net8.0\Ejercicio3.1.pdb
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\CS III ENTREGA\Ejercicio3.1\obj\Debug\net8.0\Ejercicio3.1.dll
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\CS III ENTREGA\Ejercicio3.1\obj\Debug\net8.0\refint\Ejercicio3.1.dll
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\CS III ENTREGA\Ejercicio3.1\obj\Debug\net8.0\Ejercicio3.1.pdb
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\CS III ENTREGA\Ejercicio3.1\obj\Debug\net8.0\Ejercicio3.1.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\CS III ENTREGA\Ejercicio3.1\obj\Debug\net8.0\ref\Ejercicio3.1.dll
