@@ -1,0 +1,15 @@
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\ejercicio_#10\bin\Debug\net9.0\ejercicio_#10.exe
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\ejercicio_#10\bin\Debug\net9.0\ejercicio_#10.deps.json
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\ejercicio_#10\bin\Debug\net9.0\ejercicio_#10.runtimeconfig.json
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\ejercicio_#10\bin\Debug\net9.0\ejercicio_#10.dll
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\ejercicio_#10\bin\Debug\net9.0\ejercicio_#10.pdb
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\ejercicio_#10\obj\Debug\net9.0\ejercicio_#10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\ejercicio_#10\obj\Debug\net9.0\ejercicio_#10.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\ejercicio_#10\obj\Debug\net9.0\ejercicio_#10.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\ejercicio_#10\obj\Debug\net9.0\ejercicio_#10.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\ejercicio_#10\obj\Debug\net9.0\ejercicio_#10.sourcelink.json
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\ejercicio_#10\obj\Debug\net9.0\ejercicio_#10.dll
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\ejercicio_#10\obj\Debug\net9.0\refint\ejercicio_#10.dll
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\ejercicio_#10\obj\Debug\net9.0\ejercicio_#10.pdb
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\ejercicio_#10\obj\Debug\net9.0\ejercicio_#10.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\ejercicio_#10\obj\Debug\net9.0\ref\ejercicio_#10.dll
