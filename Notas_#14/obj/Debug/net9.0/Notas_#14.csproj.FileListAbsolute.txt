@@ -1,0 +1,15 @@
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Notas_#14\bin\Debug\net9.0\Notas_#14.exe
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Notas_#14\bin\Debug\net9.0\Notas_#14.deps.json
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Notas_#14\bin\Debug\net9.0\Notas_#14.runtimeconfig.json
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Notas_#14\bin\Debug\net9.0\Notas_#14.dll
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Notas_#14\bin\Debug\net9.0\Notas_#14.pdb
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Notas_#14\obj\Debug\net9.0\Notas_#14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Notas_#14\obj\Debug\net9.0\Notas_#14.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Notas_#14\obj\Debug\net9.0\Notas_#14.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Notas_#14\obj\Debug\net9.0\Notas_#14.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Notas_#14\obj\Debug\net9.0\Notas_#14.sourcelink.json
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Notas_#14\obj\Debug\net9.0\Notas_#14.dll
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Notas_#14\obj\Debug\net9.0\refint\Notas_#14.dll
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Notas_#14\obj\Debug\net9.0\Notas_#14.pdb
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Notas_#14\obj\Debug\net9.0\Notas_#14.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Notas_#14\obj\Debug\net9.0\ref\Notas_#14.dll
