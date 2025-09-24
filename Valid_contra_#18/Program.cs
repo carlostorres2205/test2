@@ -14,13 +14,13 @@ class Program
             Console.WriteLine("- Al menos una letra minúscula");
             Console.WriteLine("- Al menos un número");
             Console.WriteLine("- Al menos un carácter especial (!@#$%^&*)");
-            Console.Write("\nIngrese la contraseña (o 'salir' para terminar): ");
+            Console.Write("\nIngrese una contraseña  o 'salir' para terminar): ");
 
             string input = Console.ReadLine();
 
             if (input.ToLower() == "salir")
             {
-                Console.WriteLine("Gracias por usar el validador de contraseñas. ¡Hasta pronto!");
+                Console.WriteLine("bye amiguito");
                 break;
             }
 

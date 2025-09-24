@@ -3,3 +3,13 @@ C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Valid_contra_#18\obj\Debug\net9.
 C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Valid_contra_#18\obj\Debug\net9.0\Valid_contra_#18.AssemblyInfo.cs
 C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Valid_contra_#18\obj\Debug\net9.0\Valid_contra_#18.csproj.CoreCompileInputs.cache
 C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Valid_contra_#18\obj\Debug\net9.0\Valid_contra_#18.sourcelink.json
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Valid_contra_#18\bin\Debug\net9.0\Valid_contra_#18.exe
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Valid_contra_#18\bin\Debug\net9.0\Valid_contra_#18.deps.json
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Valid_contra_#18\bin\Debug\net9.0\Valid_contra_#18.runtimeconfig.json
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Valid_contra_#18\bin\Debug\net9.0\Valid_contra_#18.dll
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Valid_contra_#18\bin\Debug\net9.0\Valid_contra_#18.pdb
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Valid_contra_#18\obj\Debug\net9.0\Valid_contra_#18.dll
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Valid_contra_#18\obj\Debug\net9.0\refint\Valid_contra_#18.dll
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Valid_contra_#18\obj\Debug\net9.0\Valid_contra_#18.pdb
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Valid_contra_#18\obj\Debug\net9.0\Valid_contra_#18.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Valid_contra_#18\obj\Debug\net9.0\ref\Valid_contra_#18.dll
