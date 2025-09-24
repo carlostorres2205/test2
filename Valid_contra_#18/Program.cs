@@ -1,4 +1,6 @@
-﻿class Program
+﻿using System;
+
+class Program
 {
     static void Main(string[] args)
     {
@@ -42,28 +44,65 @@
         }
 
         // Validar al menos una mayúscula
-        if (!Regex.IsMatch(contrasena, @"[A-Z]"))
+        bool tieneMayuscula = false;
+        foreach (char c in contrasena)
+        {
+            if (c >= 'A' && c <= 'Z')
+            {
+                tieneMayuscula = true;
+                break;
+            }
+        }
+        if (!tieneMayuscula)
         {
             esValida = false;
             mensaje += "- La contraseña debe contener al menos una letra mayúscula.\n";
         }
 
         // Validar al menos una minúscula
-        if (!Regex.IsMatch(contrasena, @"[a-z]"))
+        bool tieneMinuscula = false;
+        foreach (char c in contrasena)
+        {
+            if (c >= 'a' && c <= 'z')
+            {
+                tieneMinuscula = true;
+                break;
+            }
+        }
+        if (!tieneMinuscula)
         {
             esValida = false;
             mensaje += "- La contraseña debe contener al menos una letra minúscula.\n";
         }
 
         // Validar al menos un número
-        if (!Regex.IsMatch(contrasena, @"\d"))
+        bool tieneNumero = false;
+        foreach (char c in contrasena)
+        {
+            if (c >= '0' && c <= '9')
+            {
+                tieneNumero = true;
+                break;
+            }
+        }
+        if (!tieneNumero)
         {
             esValida = false;
             mensaje += "- La contraseña debe contener al menos un número.\n";
         }
 
         // Validar al menos un carácter especial (!@#$%^&*)
-        if (!Regex.IsMatch(contrasena, @"[!@#$%^&*]"))
+        bool tieneEspecial = false;
+        string caracteresEspeciales = "!@#$%^&*";
+        foreach (char c in contrasena)
+        {
+            if (caracteresEspeciales.Contains(c))
+            {
+                tieneEspecial = true;
+                break;
+            }
+        }
+        if (!tieneEspecial)
         {
             esValida = false;
             mensaje += "- La contraseña debe contener al menos un carácter especial (!@#$%^&*).\n";

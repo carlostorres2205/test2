@@ -1,0 +1,5 @@
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Valid_contra_#18\obj\Debug\net9.0\Valid_contra_#18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Valid_contra_#18\obj\Debug\net9.0\Valid_contra_#18.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Valid_contra_#18\obj\Debug\net9.0\Valid_contra_#18.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Valid_contra_#18\obj\Debug\net9.0\Valid_contra_#18.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Examen_corte1_ejercicios\Valid_contra_#18\obj\Debug\net9.0\Valid_contra_#18.sourcelink.json
